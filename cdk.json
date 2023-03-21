@@ -1,5 +1,5 @@
 {
-  "app": "npx ts-node --prefer-ts-exts bin/butler_bot_cdk.ts",
+  "app": "npx ts-node --prefer-ts-exts bin/plant_app_cdk.ts",
   "watch": {
     "include": [
       "**"
